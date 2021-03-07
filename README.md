@@ -1,4 +1,4 @@
-# plash
+# plush
 
 ## Build Setup
 
